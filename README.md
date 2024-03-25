@@ -9,7 +9,7 @@ GTA V / FiveM Substance Painter DDS Exporter
     [Repository](https://github.com/emomilol1213/Substance-Painter-DDS-Exporter)
     [NexusMods](https://www.nexusmods.com/users/4891)
 
-This is a copy of the original plugin, with the purpose of adding support for FiveM's texture format.
+This is a copy of the original plugin, with the purpose of adding support for GTA V / FiveM's texture format.
 
 # Installation:
 
