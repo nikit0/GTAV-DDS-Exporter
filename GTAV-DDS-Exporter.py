@@ -88,7 +88,7 @@ def convert_png_to_dds(texconvPath, sourcePNG, overwrite):
             format_option = "BC3_UNORM"
         # If for some reason it's using some other suffix that's not supported
         else:
-            format_option = "BC5_UNORM"
+            format_option = "BC1_UNORM"
 
         format_option = format_option.rstrip('"')
         if overwrite:
